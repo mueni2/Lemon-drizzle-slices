@@ -17,11 +17,9 @@ sugars|fibre|protein|salt|
 |34g  |1g   |2g   |0.2g  |
 
 :hourglass_flowing_sand:
-
 **Preps:25mins**
 
 :hourglass_flowing_sand:
-
 **Cook:25mins**
 
 :hocho:
